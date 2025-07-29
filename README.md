@@ -1,50 +1,60 @@
-# 👋 Hi, I'm Ketan Hedaoo
+# Hi there, I'm Ketan 👋
 
-🎯 **Data Engineer | Data Analyst | Data Scientist**  
-💻 Passionate about building data pipelines, crafting insightful dashboards, and solving real-world problems with machine learning.
-
----
-
-## 🔧 Tech Stack
-
-- **Languages**: Python, SQL, Bash
-- **Tools & Frameworks**: PySpark, Airflow, Pandas, NumPy, Scikit-learn, TensorFlow, OpenCV
-- **Data**: MySQL, PostgreSQL, Snowflake, Delta Lake
-- **Visualization**: Power BI, Matplotlib, Plotly, Seaborn
-- **Cloud & DevOps**: Azure, GCP (basic), Git, GitHub Actions
+## 👨‍💻 About Me
+- Software Developer with 2+ years of experience specializing in **Python**, **Data Engineering**, **Data Analytics**, and **Machine Learning**.  
+- Passionate about building data-driven solutions, developing scalable pipelines, and exploring modern AI/ML technologies.  
+- Currently transitioning towards **Data Science** and **Advanced Data Engineering** roles.
 
 ---
 
-## 📁 Projects by Category
-
-### 🛠️ Data Engineering
-- 🔗 [Airflow ETL Pipeline](https://github.com/ketanhedaoo/airflow-etl-pipeline): Designed and scheduled a DAG to automate data extraction, transformation, and loading.
-- 🔗 [Spark Data Lake Project](https://github.com/ketanhedaoo/spark-data-lake-project): Processed large datasets using PySpark and Delta Lake on Azure.
-- 🔗 [Kafka Streaming Pipeline](https://github.com/ketanhedaoo/streaming-twitter-kafka): Built a real-time pipeline using Kafka and Spark Streaming.
-
-### 📊 Data Analysis
-- 🔗 [Customer Sales Analysis](https://github.com/ketanhedaoo/customer-sales-analysis): Data cleaning, aggregation, and insights on retail customer behavior.
-- 🔗 [Marketing Campaign Insights](https://github.com/ketanhedaoo/marketing-campaign-insights): Analyzed campaign performance using SQL and Power BI.
-- 🔗 [COVID-19 Data Dashboard](https://github.com/ketanhedaoo/covid19-dashboard): Interactive dashboard using Plotly and pandas.
-
-### 🤖 Data Science & ML
-- 🔗 [Churn Prediction](https://github.com/ketanhedaoo/churn-prediction-ml): Predicting customer churn using classification models and model evaluation.
-- 🔗 [Nifty 50 Stock Prediction](https://github.com/ketanhedaoo/nifty50-stock-predictor): Time series forecasting using ARIMA and Facebook Prophet.
-- 🔗 [Image Classifier with OpenCV](https://github.com/ketanhedaoo/image-classifier-opencv): Applied computer vision techniques for defect detection.
+## 🚀 Skills & Technologies
+- **Programming & Scripting:** Python, SQL, Shell Scripting  
+- **Libraries & Frameworks:** pandas, NumPy, Scikit-Learn, PySpark, OpenCV, PyQt  
+- **Data Engineering:** Medallion Architecture, Data Pipelines, Kafka (learning)  
+- **Visualization:** Power BI, Matplotlib, Seaborn, Plotly  
+- **Version Control & DevOps:** Git, Linux  
+- **Machine Learning & AI:** Regression, Classification, Gradient Descent, Generative AI (learning)
 
 ---
 
-## 🏆 Achievements
+## 📂 Featured Projects
+1. [logistic-regression-breast-cancer](https://github.com/your-username/logistic-regression-breast-cancer)  
+   *Breast cancer prediction using logistic regression.*
 
-- 🏅 2+ years of experience in end-to-end data solutions.
-- 🧠 Built automation and vision solutions for manufacturing clients.
-- 💡 Contributor to several open-source utilities (link if any).
-- 📈 Improved processing speed of ETL pipelines by 40% using Spark optimization.
+2. [decision-tree-iris-flower-classification](https://github.com/your-username/decision-tree-iris-flower-classification)  
+   *Iris flower classification using decision tree algorithm.*
+
+3. [linear-regression-car-price-estimation](https://github.com/your-username/linear-regression-car-price-estimation)  
+   *Car price prediction using linear regression.*
+
+4. [Gradient-Descent-Visualization](https://github.com/your-username/Gradient-Descent-Visualization)  
+   *Visual demonstration of gradient descent algorithm.*
+
+5. [Descriptive-Statistics-Country-Profile](https://github.com/your-username/Descriptive-Statistics-Country-Profile)  
+   *Exploratory data analysis and descriptive statistics for country profiles.*
+
+6. [pyspark_kpi_development_and_visualization](https://github.com/your-username/pyspark_kpi_development_and_visualization)  
+   *KPI calculation and visualization using PySpark.*
+
+7. [data_pipelines_with_medallion_architecture](https://github.com/your-username/data_pipelines_with_medallion_architecture)  
+   *Implementation of Medallion architecture for structured data pipelines.*
+
+---
+
+## 📈 Next Areas of Focus
+- **SQL Optimization & Advanced Analytics**  
+- **Power BI Dashboards & Reporting**  
+- **Advanced Machine Learning Algorithms**  
+- **PySpark with Kafka for Real-time Data**  
+- **Generative AI**
 
 ---
 
 ## 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/ketan-hedaoo](https://www.linkedin.com/in/ketan-hedaoo-020810183/)  
+- **Email:** ketanhedaoo1@gmail.com  
+- **GitHub:** [github.com/ketan-hedaoo](https://github.com/ketan-hedaoo)
 
-- 🌐 [LinkedIn](https://linkedin.com/in/ketanhedaoo)
-- 📧 Email: ketanhedaoo@example.com
-- 💼 [Portfolio Website](https://ketanhedaoo.github.io/) *(optional)*
+---
+
+⭐ *If you like my work, feel free to star the repositories and follow me for updates!*  
